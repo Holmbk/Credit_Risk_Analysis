@@ -6,13 +6,16 @@ Credit risk analysis using different techniques to train and evaluate models wit
 ## Resampling Models to Predict Credit Risk
 ### Random Over Sampling
 
+![Naive Random](https://user-images.githubusercontent.com/98991575/177057508-2ae8b887-b98c-43dc-84e3-783c8776f0a7.png)
 
 ### SMOTE
 
+![Smote](https://user-images.githubusercontent.com/98991575/177057505-83163bc1-19f8-4cfa-aee0-3cfde9263cf9.png)
 
-### Logistic Regression
+### Under Sampling
 
-![Logistic](https://user-images.githubusercontent.com/98991575/177055509-075b2f7b-15b3-426b-a79f-f02669958a26.png)
+![Undersampling](https://user-images.githubusercontent.com/98991575/177057503-3b77e426-f36f-4509-a912-95f4522a4a8d.png)
+
 
 ## Using SMOTEENN Algorithm to Predict Credit Risk
 
