@@ -29,3 +29,8 @@ Credit risk analysis using different techniques to train and evaluate models wit
 ![Easy](https://user-images.githubusercontent.com/98991575/177055474-fde596a9-f0ac-4bfe-a8f6-a1fdcf8311ff.png)
 
 ## Summary
+The models are inadequately predictive, and are not recommended for commercial application.  Random over sampling, SMOTE and under sampling did not give faverable results.  Naive and SMOTE did not produce usable model for the prediction of the bad loans.  Naive resulted in a precision score of 0.01 and recall of 0.62. The F1 score of 0.02 reflected the low recision score.  SMOTE resulted in a precision of 0.01 and recall of 0.61 with a F1 score of 0.02.  The under  sampling resulted with a precision score of 0.01, a recall of 0.65 and F1 of 0.01
+
+Combination sampling had a precision score of 0.01, a recall of 0.70 and a F1 of 0.02 The performance is low.
+
+The balanced random forest classifier and the easy ensemble classifier had low precision.  The balanced precision was 0.04 a recall of 0.67 and F1 of 0.07.  The Easy ensemble classified precision was 0.09, a recall of 0.92 and a F1 of 0.16.  These models are insufficient for commercial application.
