@@ -18,6 +18,7 @@ Credit risk analysis using different techniques to train and evaluate models wit
 
 
 ## Using SMOTEENN Algorithm to Predict Credit Risk
+![Combination](https://user-images.githubusercontent.com/98991575/177057741-98b00a4b-9ca7-4884-8075-7295760f5b4e.png)
 
 ## Using Ensemble Classifier to Predict Credit Risk
 
